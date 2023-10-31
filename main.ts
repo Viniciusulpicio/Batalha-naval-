@@ -64,3 +64,8 @@ function mostrarMapa(mapaJogador: number[][], mapaAdversario: number[][]): void 
     console.log('Você venceu <3')
 }
 mostrarMapa(mapaJogador, mapaAdversario);
+
+// biston sou secretamente apaixonado em vc e quero sentir você dentro de mim me preenchendo com seu liquido do amor
+
+
+//teste 
